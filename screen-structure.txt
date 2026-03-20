@@ -1,0 +1,16 @@
+SafeAreaView
+ ├─ StatusBar  (dark-content) 
+ ├─ Header
+ │   ├─ Title      ->User Directory App
+ │   └─ User Count ->10 users loaded
+ │
+ ├─ Search Input   ->[ Search users... ]
+ │
+ ├─ FlatList
+ │   ├─ User Card
+ │   ├─ User Card
+ │   ├─ User Card (expanded)
+ │   │   └─ Posts
+ │   └─ ...
+ │
+ └─ Footer          -> Platform: ios | 320x568 
